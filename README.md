@@ -17,7 +17,7 @@ This site shows a personalized greeting layout with clean typography, soft anima
 - Deploy on GitHub Pages / Netlify / Vercel
 
 ## Live Demo
-(put your page link here once deployed)
+[click here](https://bday-wishesh-website.netlify.app/)
 
 ## Purpose
 Small beginner friendly practice project to explore semantic markup and modern CSS styling.
